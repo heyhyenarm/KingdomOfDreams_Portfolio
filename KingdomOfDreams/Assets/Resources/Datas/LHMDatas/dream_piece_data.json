@@ -1,0 +1,34 @@
+[
+  {
+    "id": "600",
+    "name": "마법의 꿈 조각",
+    "sprite_name": "btn_icon_magic",
+    "prefab_name": "SM_Prop_Gem_01",
+    "material_name": "Dungeon_Material_01",
+    "spawn_percent": "25"
+  },
+  {
+    "id": "601",
+    "name": "신속의 꿈 조각",
+    "sprite_name": "btn_icon_boot_speed",
+    "prefab_name": "SM_Prop_Gem_01",
+    "material_name": "Dungeon_Material_02",
+    "spawn_percent": "25"
+  },
+  {
+    "id": "602",
+    "name": "정화의 꿈 조각",
+    "sprite_name": "Icon_PictoIcon_Add01",
+    "prefab_name": "SM_Prop_Gem_01",
+    "material_name": "Dungeon_Material_03",
+    "spawn_percent": "25"
+  },
+  {
+    "id": "603",
+    "name": "지혜의 꿈 조각",
+    "sprite_name": "btn_icon_book",
+    "prefab_name": "SM_Prop_Gem_01",
+    "material_name": "Dungeon_Material_04",
+    "spawn_percent": "25"
+  }
+]

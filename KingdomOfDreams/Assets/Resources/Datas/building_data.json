@@ -1,0 +1,134 @@
+[
+  {
+    "id": 4000,
+    "name": "나무꾼집",
+    "prefab_name": "Tuto01_Building",
+    "build_time": 5
+  },
+  {
+    "id": 4001,
+    "name": "낚시꾼집",
+    "prefab_name": "Tuto02_Building",
+    "build_time": 5
+  },
+  {
+    "id": 4002,
+    "name": "농부집",
+    "prefab_name": "Tuto03_Building",
+    "build_time": 5
+  },
+  {
+    "id": 4003,
+    "name": "광부집",
+    "prefab_name": "Tuto04_Building",
+    "build_time": 5
+  },
+  {
+    "id": 4004,
+    "name": "사냥꾼집",
+    "prefab_name": "Tuto05_Building",
+    "build_time": 5
+  },
+  {
+    "id": 4005,
+    "name": "목공소6",
+    "prefab_name": "null",
+    "build_time": 90
+  },
+  {
+    "id": 4006,
+    "name": "생선가게6",
+    "prefab_name": "null",
+    "build_time": 90
+  },
+  {
+    "id": 4007,
+    "name": "채소가게6",
+    "prefab_name": "null",
+    "build_time": 90
+  },
+  {
+    "id": 4008,
+    "name": "대장간6",
+    "prefab_name": "null",
+    "build_time": 90
+  },
+  {
+    "id": 4009,
+    "name": "정육점6",
+    "prefab_name": "null",
+    "build_time": 90
+  },
+  {
+    "id": 4010,
+    "name": "목공소7",
+    "prefab_name": "Preset_House_09_A",
+    "build_time": 3600
+  },
+  {
+    "id": 4011,
+    "name": "생선가게7",
+    "prefab_name": "Preset_House_09_D",
+    "build_time": 3600
+  },
+  {
+    "id": 4012,
+    "name": "채소가게7",
+    "prefab_name": "Preset_House_09_B",
+    "build_time": 3600
+  },
+  {
+    "id": 4013,
+    "name": "대장간7",
+    "prefab_name": "Preset_Blacksmith_01",
+    "build_time": 3600
+  },
+  {
+    "id": 4014,
+    "name": "정육점7",
+    "prefab_name": "Preset_House_09_C",
+    "build_time": 3600
+  },
+  {
+    "id": 4015,
+    "name": "시장",
+    "prefab_name": "null",
+    "build_time": 3600
+  },
+  {
+    "id": 4016,
+    "name": "식료품점",
+    "prefab_name": "Preset_House_10",
+    "build_time": 7200
+  },
+  {
+    "id": 4017,
+    "name": "제철소",
+    "prefab_name": "Preset_Stables_01",
+    "build_time": 7200
+  },
+  {
+    "id": 4018,
+    "name": "식당",
+    "prefab_name": "Preset_House_4",
+    "build_time": 7200
+  },
+  {
+    "id": 4019,
+    "name": "병원",
+    "prefab_name": "Preset_Tower_01",
+    "build_time": 10800
+  },
+  {
+    "id": 4020,
+    "name": "주점",
+    "prefab_name": "Preset_Tavern_01",
+    "build_time": 10800
+  },
+  {
+    "id": 4021,
+    "name": "성",
+    "prefab_name": "null",
+    "build_time": 5
+  }
+]

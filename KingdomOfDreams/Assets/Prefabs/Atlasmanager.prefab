@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4486436020173165979
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4486436020173165977}
+  - component: {fileID: 4486436020173165976}
+  m_Layer: 0
+  m_Name: Atlasmanager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4486436020173165977
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4486436020173165979}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -7.4799995, y: -100.545265, z: 0.8299999}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4486436020173165976
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4486436020173165979}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc39a7351d605404990ca39c951ba94e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  arrAtlas:
+  - {fileID: 4343727234628468602, guid: c292e18bb8fb593418e36693478764cb, type: 2}
+  - {fileID: 4343727234628468602, guid: 8586fb66065ed8f47bf29bc642cd0c73, type: 2}
+  - {fileID: 4343727234628468602, guid: ebfb4a0454a760347b56a9d0a8254766, type: 2}
+  - {fileID: 4343727234628468602, guid: 6e9d85eeddd99ef448377ff5733b6165, type: 2}
+  - {fileID: 4343727234628468602, guid: 6a8335a9da81c5748a7ef3d6b213c45f, type: 2}
+  - {fileID: 4343727234628468602, guid: a88a66fd38c7c5d4b9822848adf16b3c, type: 2}
+  - {fileID: 4343727234628468602, guid: 5c8a900621edd5649bf424d91f538d0a, type: 2}

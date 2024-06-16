@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/App.unity
+    guid: f23b8f404253244429ec6cd0bde311c7
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: ca8c4d491724cdf4381d566d2d323880
+  - enabled: 0
+    path: Assets/Scenes/Lobby.unity
+    guid: e230a4d1726a5934990eca0b8f1a104f
+  - enabled: 0
+    path: Assets/Scenes/OpeningVideo.unity
+    guid: d01b2f8cb4cfcf543bdedb8a5246907a
+  - enabled: 0
+    path: Assets/Scenes/Tutorial01.unity
+    guid: 07f9cc3ee2104764db904bc64c9ed4d4
+  - enabled: 0
+    path: Assets/Scenes/Tutorial02.unity
+    guid: f32a681bd3f877545b57faf207601ef2
+  - enabled: 0
+    path: Assets/Scenes/Tutorial03.unity
+    guid: 9999762d18f994248a5a8748473a6e70
+  - enabled: 0
+    path: Assets/Scenes/Tutorial04.unity
+    guid: 122d0be48e999554facea851c9d4c67c
+  - enabled: 0
+    path: Assets/Scenes/Tutorial05.unity
+    guid: 513e740cf997e4b4e8a5f19ab161d782
+  - enabled: 0
+    path: Assets/Scenes/Stage06Start.unity
+    guid: e8b1dd110281fae4db172f0ff9d192ff
+  - enabled: 0
+    path: Assets/Scenes/Stage06.unity
+    guid: 98ab7409bed8f6b4095df91c7a522918
+  - enabled: 0
+    path: Assets/Scenes/Stage07.unity
+    guid: a8b7dd227b7c43148abd2301bc12447b
+  - enabled: 0
+    path: Assets/Scenes/Stage08.unity
+    guid: d825859aebbc32948aa6576966d72753
+  - enabled: 0
+    path: Assets/Scenes/Dreamland.unity
+    guid: a9f670ec2afdd2040af1281b02820d62
+  - enabled: 0
+    path: Assets/Scenes/Dungeon.unity
+    guid: 931dc4edb5407eb46b70853f444d0131
+  - enabled: 0
+    path: Assets/Scenes/Mine.unity
+    guid: 4423ac928856d204d8944f5e9d2be6b1
+  - enabled: 0
+    path: Assets/Scenes/DreamMine.unity
+    guid: 0d8d7d55253df4048800d9783aff6c38
+  - enabled: 0
+    path: Assets/Scenes/Pond.unity
+    guid: 3ef1e82bf4d25f640a2c0b9f88263a46
+  - enabled: 0
+    path: Assets/Scenes/FairyShop.unity
+    guid: a778cc08fee654346ba0b802f8c4a786
+  - enabled: 0
+    path: Assets/Scenes/LoadingTest.unity
+    guid: 9808c87bf91033946b9b97149151ac1a
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: ccf3d2b3f937a804d899be4806ff084c, type: 2}

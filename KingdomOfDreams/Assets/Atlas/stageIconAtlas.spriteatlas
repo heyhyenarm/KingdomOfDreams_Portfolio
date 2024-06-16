@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: stageIconAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 9a040049e0b1aa740a4ad3d0a25218ba, type: 3}
+    - {fileID: 2800000, guid: 48d8c658df5f92f46863581045f4e08c, type: 3}
+    - {fileID: 2800000, guid: fcbe3b1e6af7b024995bef0f7aab2697, type: 3}
+    - {fileID: 2800000, guid: 6f377b41bd5b3f449ad5e3c191953ce7, type: 3}
+    - {fileID: 2800000, guid: 977ff4128988e49b299d08ebeaf6d992, type: 3}
+    - {fileID: 2800000, guid: eafc43222da88694fbd565874c9ce18a, type: 3}
+    - {fileID: 2800000, guid: cb6400df4ed571a41b18c2c7766ef6e1, type: 3}
+    - {fileID: 2800000, guid: 6ca3c740d67054ea2a5d00551f219260, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 6ca3c740d67054ea2a5d00551f219260, type: 3}
+  - {fileID: 21300000, guid: 6f377b41bd5b3f449ad5e3c191953ce7, type: 3}
+  - {fileID: 21300000, guid: 977ff4128988e49b299d08ebeaf6d992, type: 3}
+  - {fileID: 21300000, guid: eafc43222da88694fbd565874c9ce18a, type: 3}
+  - {fileID: 21300000, guid: 48d8c658df5f92f46863581045f4e08c, type: 3}
+  - {fileID: 21300000, guid: 9a040049e0b1aa740a4ad3d0a25218ba, type: 3}
+  - {fileID: 21300000, guid: fcbe3b1e6af7b024995bef0f7aab2697, type: 3}
+  - {fileID: 21300000, guid: cb6400df4ed571a41b18c2c7766ef6e1, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Meat
+  - precious-stone
+  - Icon_ImageIcon_Crown
+  - smog
+  - fish (3)
+  - lumber
+  - icon_crops
+  - vegetable
+  m_RenderDataMap: {}
+  m_Tag: stageIconAtlas
+  m_IsVariant: 0

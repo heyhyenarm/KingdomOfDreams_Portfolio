@@ -1,0 +1,298 @@
+[
+  {
+    "id": 6000,
+    "name": "브론즈 뱃지",
+    "sprite_name": "Badge Bronze",
+    "type": 1,
+    "action": 1,
+    "percent": 100
+  },
+  {
+    "id": 6001,
+    "name": "골드 뱃지",
+    "sprite_name": "Badge Gold",
+    "type": 3,
+    "action": 1,
+    "percent": 100
+  },
+  {
+    "id": 6002,
+    "name": "새 알",
+    "sprite_name": "Egg - Points",
+    "type": 3,
+    "action": 2,
+    "percent": 14
+  },
+  {
+    "id": 6003,
+    "name": "사과",
+    "sprite_name": "Apple",
+    "type": 4,
+    "action": 2,
+    "percent": 14
+  },
+  {
+    "id": 6004,
+    "name": "오렌지",
+    "sprite_name": "Orange",
+    "type": 5,
+    "action": 2,
+    "percent": 14
+  },
+  {
+    "id": 6005,
+    "name": "브론즈 열쇠",
+    "sprite_name": "itemicon_m_key",
+    "type": 1,
+    "action": 2,
+    "percent": 8
+  },
+  {
+    "id": 6006,
+    "name": "자물쇠",
+    "sprite_name": "itemicon_m_lock",
+    "type": 2,
+    "action": 2,
+    "percent": 8
+  },
+  {
+    "id": 6007,
+    "name": "트로피",
+    "sprite_name": "itemicon_m_trophy",
+    "type": 1,
+    "action": 2,
+    "percent": 8
+  },
+  {
+    "id": 6008,
+    "name": "방패",
+    "sprite_name": "Shield Wooden",
+    "type": 2,
+    "action": 2,
+    "percent": 8
+  },
+  {
+    "id": 6009,
+    "name": "가방",
+    "sprite_name": "Suitcase",
+    "type": 3,
+    "action": 3,
+    "percent": 14
+  },
+  {
+    "id": 6010,
+    "name": "파란 포션",
+    "sprite_name": "Potion - Blue",
+    "type": 4,
+    "action": 3,
+    "percent": 14
+  },
+  {
+    "id": 6011,
+    "name": "나침반",
+    "sprite_name": "Compass",
+    "type": 5,
+    "action": 3,
+    "percent": 14
+  },
+  {
+    "id": 6012,
+    "name": "자석",
+    "sprite_name": "Magnet 3d",
+    "type": 1,
+    "action": 3,
+    "percent": 8
+  },
+  {
+    "id": 6013,
+    "name": "반지",
+    "sprite_name": "Ring - Blue",
+    "type": 2,
+    "action": 3,
+    "percent": 8
+  },
+  {
+    "id": 6014,
+    "name": "로켓",
+    "sprite_name": "Rocket",
+    "type": 1,
+    "action": 3,
+    "percent": 8
+  },
+  {
+    "id": 6015,
+    "name": "별",
+    "sprite_name": "Star",
+    "type": 2,
+    "action": 3,
+    "percent": 8
+  },
+  {
+    "id": 6016,
+    "name": "막대사탕",
+    "sprite_name": "Lollipop Spiral - Red",
+    "type": 3,
+    "action": 4,
+    "percent": 14
+  },
+  {
+    "id": 6017,
+    "name": "바나나",
+    "sprite_name": "Banana",
+    "type": 4,
+    "action": 4,
+    "percent": 14
+  },
+  {
+    "id": 6018,
+    "name": "당근",
+    "sprite_name": "Carrot",
+    "type": 5,
+    "action": 4,
+    "percent": 14
+  },
+  {
+    "id": 6019,
+    "name": "수박",
+    "sprite_name": "Watermelon (Triangle)",
+    "type": 1,
+    "action": 4,
+    "percent": 8
+  },
+  {
+    "id": 6020,
+    "name": "아이스크림",
+    "sprite_name": "Popsicle - Multicolor",
+    "type": 2,
+    "action": 4,
+    "percent": 8
+  },
+  {
+    "id": 6021,
+    "name": "우유",
+    "sprite_name": "Milk",
+    "type": 1,
+    "action": 4,
+    "percent": 8
+  },
+  {
+    "id": 6022,
+    "name": "꽃",
+    "sprite_name": "Flower Pink",
+    "type": 2,
+    "action": 4,
+    "percent": 8
+  },
+  {
+    "id": 6023,
+    "name": "보라 포션",
+    "sprite_name": "Potion Round - Purple",
+    "type": 3,
+    "action": 5,
+    "percent": 14
+  },
+  {
+    "id": 6024,
+    "name": "폭탄",
+    "sprite_name": "itemicon_m_bomb",
+    "type": 4,
+    "action": 5,
+    "percent": 14
+  },
+  {
+    "id": 6025,
+    "name": "유리병",
+    "sprite_name": "itemicon_m_gem_2",
+    "type": 5,
+    "action": 5,
+    "percent": 14
+  },
+  {
+    "id": 6026,
+    "name": "다이아몬드",
+    "sprite_name": "Gem Flat - Blue",
+    "type": 1,
+    "action": 5,
+    "percent": 8
+  },
+  {
+    "id": 6027,
+    "name": "루비",
+    "sprite_name": "Gem - Red",
+    "type": 2,
+    "action": 5,
+    "percent": 8
+  },
+  {
+    "id": 6028,
+    "name": "무늬버섯",
+    "sprite_name": "Mushroom - Toadstool",
+    "type": 1,
+    "action": 5,
+    "percent": 8
+  },
+  {
+    "id": 6029,
+    "name": "버섯",
+    "sprite_name": "Mushroom",
+    "type": 2,
+    "action": 5,
+    "percent": 8
+  },
+  {
+    "id": 6030,
+    "name": "저금통",
+    "sprite_name": "itemicon_m_save_money",
+    "type": 3,
+    "action": 6,
+    "percent": 14
+  },
+  {
+    "id": 6031,
+    "name": "해골",
+    "sprite_name": "itemicon_m_skull",
+    "type": 4,
+    "action": 6,
+    "percent": 14
+  },
+  {
+    "id": 6032,
+    "name": "칼",
+    "sprite_name": "itemicon_m_sword",
+    "type": 5,
+    "action": 6,
+    "percent": 14
+  },
+  {
+    "id": 6033,
+    "name": "화살",
+    "sprite_name": "itemicon_m_arrow",
+    "type": 1,
+    "action": 6,
+    "percent": 8
+  },
+  {
+    "id": 6034,
+    "name": "투구",
+    "sprite_name": "Helmet Wings",
+    "type": 2,
+    "action": 6,
+    "percent": 8
+  },
+  {
+    "id": 6035,
+    "name": "곰",
+    "sprite_name": "Bear",
+    "type": 1,
+    "action": 6,
+    "percent": 8
+  },
+  {
+    "id": 6036,
+    "name": "돼지",
+    "sprite_name": "Pig",
+    "type": 2,
+    "action": 6,
+    "percent": 8
+  }
+]

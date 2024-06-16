@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: inventoryItemAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 89ed2057ad8c34694b37f215a7f8484c, type: 3}
+    - {fileID: 2800000, guid: 99dff1874a9b944a28871c38c7dc5e84, type: 3}
+    - {fileID: 2800000, guid: 21a7330f47ec467408fccf658773763a, type: 3}
+    - {fileID: 2800000, guid: db2cdeff8da65480bb0894c10fb077a6, type: 3}
+    - {fileID: 2800000, guid: da6e6cef89ef4485a99bf262e902f2c0, type: 3}
+    - {fileID: 2800000, guid: 80012b5d5fe144f79941a58dae2295cd, type: 3}
+    - {fileID: 2800000, guid: 5fa91b7cb446d449883d9c1282420086, type: 3}
+    - {fileID: 2800000, guid: da6e6cef89ef4485a99bf262e902f2c0, type: 3}
+    - {fileID: 2800000, guid: 98663b0033e5347c1a470a40f89f1f10, type: 3}
+    - {fileID: 2800000, guid: 9a040049e0b1aa740a4ad3d0a25218ba, type: 3}
+    - {fileID: 2800000, guid: 6f377b41bd5b3f449ad5e3c191953ce7, type: 3}
+    - {fileID: 2800000, guid: 48d8c658df5f92f46863581045f4e08c, type: 3}
+    - {fileID: 2800000, guid: 6ca3c740d67054ea2a5d00551f219260, type: 3}
+    - {fileID: 2800000, guid: 45c1aa83a267947fdba3e5db20387936, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 98663b0033e5347c1a470a40f89f1f10, type: 3}
+  - {fileID: 21300000, guid: 6ca3c740d67054ea2a5d00551f219260, type: 3}
+  - {fileID: 21300000, guid: 6f377b41bd5b3f449ad5e3c191953ce7, type: 3}
+  - {fileID: 21300000, guid: 45c1aa83a267947fdba3e5db20387936, type: 3}
+  - {fileID: 21300000, guid: 89ed2057ad8c34694b37f215a7f8484c, type: 3}
+  - {fileID: 21300000, guid: 99dff1874a9b944a28871c38c7dc5e84, type: 3}
+  - {fileID: 21300000, guid: 48d8c658df5f92f46863581045f4e08c, type: 3}
+  - {fileID: 21300000, guid: 9a040049e0b1aa740a4ad3d0a25218ba, type: 3}
+  - {fileID: 21300000, guid: 5fa91b7cb446d449883d9c1282420086, type: 3}
+  - {fileID: 21300000, guid: 80012b5d5fe144f79941a58dae2295cd, type: 3}
+  - {fileID: 21300000, guid: 21a7330f47ec467408fccf658773763a, type: 3}
+  - {fileID: 21300000, guid: da6e6cef89ef4485a99bf262e902f2c0, type: 3}
+  - {fileID: 21300000, guid: db2cdeff8da65480bb0894c10fb077a6, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - icon_Food_Meat
+  - Meat
+  - precious-stone
+  - Meat - Leg
+  - equip_shield_wood
+  - equip_fish
+  - fish (3)
+  - lumber
+  - Icon_Nut
+  - icon_Food_Pizza
+  - cabbage
+  - icon_itemicon_meat
+  - equip_stone
+  m_RenderDataMap: {}
+  m_Tag: inventoryItemAtlas
+  m_IsVariant: 0

@@ -1,0 +1,880 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!29 &1
+OcclusionCullingSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_OcclusionBakeSettings:
+    smallestOccluder: 5
+    smallestHole: 0.25
+    backfaceThreshold: 100
+  m_SceneGUID: 00000000000000000000000000000000
+  m_OcclusionCullingData: {fileID: 0}
+--- !u!104 &2
+RenderSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 9
+  m_Fog: 0
+  m_FogColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  m_FogMode: 3
+  m_FogDensity: 0.01
+  m_LinearFogStart: 0
+  m_LinearFogEnd: 300
+  m_AmbientSkyColor: {r: 0.212, g: 0.227, b: 0.259, a: 1}
+  m_AmbientEquatorColor: {r: 0.114, g: 0.125, b: 0.133, a: 1}
+  m_AmbientGroundColor: {r: 0.047, g: 0.043, b: 0.035, a: 1}
+  m_AmbientIntensity: 1
+  m_AmbientMode: 0
+  m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
+  m_SkyboxMaterial: {fileID: 10304, guid: 0000000000000000f000000000000000, type: 0}
+  m_HaloStrength: 0.5
+  m_FlareStrength: 1
+  m_FlareFadeSpeed: 3
+  m_HaloTexture: {fileID: 0}
+  m_SpotCookie: {fileID: 10001, guid: 0000000000000000e000000000000000, type: 0}
+  m_DefaultReflectionMode: 0
+  m_DefaultReflectionResolution: 128
+  m_ReflectionBounces: 1
+  m_ReflectionIntensity: 1
+  m_CustomReflection: {fileID: 0}
+  m_Sun: {fileID: 0}
+  m_IndirectSpecularColor: {r: 0.12731749, g: 0.13414757, b: 0.1210787, a: 1}
+  m_UseRadianceAmbientProbe: 0
+--- !u!157 &3
+LightmapSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 12
+  m_GIWorkflowMode: 1
+  m_GISettings:
+    serializedVersion: 2
+    m_BounceScale: 1
+    m_IndirectOutputScale: 1
+    m_AlbedoBoost: 1
+    m_EnvironmentLightingMode: 0
+    m_EnableBakedLightmaps: 1
+    m_EnableRealtimeLightmaps: 0
+  m_LightmapEditorSettings:
+    serializedVersion: 12
+    m_Resolution: 2
+    m_BakeResolution: 40
+    m_AtlasSize: 1024
+    m_AO: 0
+    m_AOMaxDistance: 1
+    m_CompAOExponent: 1
+    m_CompAOExponentDirect: 0
+    m_ExtractAmbientOcclusion: 0
+    m_Padding: 2
+    m_LightmapParameters: {fileID: 0}
+    m_LightmapsBakeMode: 1
+    m_TextureCompression: 1
+    m_FinalGather: 0
+    m_FinalGatherFiltering: 1
+    m_FinalGatherRayCount: 256
+    m_ReflectionCompression: 2
+    m_MixedBakeMode: 2
+    m_BakeBackend: 1
+    m_PVRSampling: 1
+    m_PVRDirectSampleCount: 32
+    m_PVRSampleCount: 512
+    m_PVRBounces: 2
+    m_PVREnvironmentSampleCount: 256
+    m_PVREnvironmentReferencePointCount: 2048
+    m_PVRFilteringMode: 1
+    m_PVRDenoiserTypeDirect: 1
+    m_PVRDenoiserTypeIndirect: 1
+    m_PVRDenoiserTypeAO: 1
+    m_PVRFilterTypeDirect: 0
+    m_PVRFilterTypeIndirect: 0
+    m_PVRFilterTypeAO: 0
+    m_PVREnvironmentMIS: 1
+    m_PVRCulling: 1
+    m_PVRFilteringGaussRadiusDirect: 1
+    m_PVRFilteringGaussRadiusIndirect: 5
+    m_PVRFilteringGaussRadiusAO: 2
+    m_PVRFilteringAtrousPositionSigmaDirect: 0.5
+    m_PVRFilteringAtrousPositionSigmaIndirect: 2
+    m_PVRFilteringAtrousPositionSigmaAO: 1
+    m_ExportTrainingData: 0
+    m_TrainingDataDestination: TrainingData
+    m_LightProbeSampleCountMultiplier: 4
+  m_LightingDataAsset: {fileID: 0}
+  m_LightingSettings: {fileID: 0}
+--- !u!196 &4
+NavMeshSettings:
+  serializedVersion: 2
+  m_ObjectHideFlags: 0
+  m_BuildSettings:
+    serializedVersion: 2
+    agentTypeID: 0
+    agentRadius: 0.5
+    agentHeight: 2
+    agentSlope: 45
+    agentClimb: 0.4
+    ledgeDropHeight: 0
+    maxJumpAcrossDistance: 0
+    minRegionArea: 2
+    manualCellSize: 0
+    cellSize: 0.16666667
+    manualTileSize: 0
+    tileSize: 256
+    accuratePlacement: 0
+    maxJobWorkers: 0
+    preserveTilesOutsideBounds: 0
+    debug:
+      m_Flags: 0
+  m_NavMeshData: {fileID: 0}
+--- !u!1 &1932772910
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1932772912}
+  - component: {fileID: 1932772911}
+  m_Layer: 0
+  m_Name: App
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1932772911
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1932772910}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1cbbef11466204341b98dd14ed9580d2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  inventory: {fileID: 4022308106724306270, guid: 158d92fad8bb7d14dbceac2e4aaa3e2f, type: 3}
+  book: {fileID: 2437616856712377553, guid: d992f2977c3c6e74897f37863a6c492c, type: 3}
+  MagicTool: {fileID: 4143079852880847631, guid: 6ae4a6972df259d48ab8fc1d5fe3760e, type: 3}
+  preState: 0
+  isNewbie: 0
+--- !u!4 &1932772912
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1932772910}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -2.2870643, y: 0.9861646, z: -0.055296946}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &3936180805241959769
+Transform:
+  m_ObjectHideFlags: 10
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3936180805242448249}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3936180805242448249
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3936180805241959769}
+  - component: {fileID: 3936180805247933593}
+  - component: {fileID: 3936180805244776603}
+  - component: {fileID: 3936180805244776601}
+  m_Layer: 0
+  m_Name: SoundManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!82 &3936180805244776601
+AudioSource:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3936180805242448249}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_PlayOnAwake: 1
+  m_Volume: 0
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!82 &3936180805244776603
+AudioSource:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3936180805242448249}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_PlayOnAwake: 1
+  m_Volume: 0
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!114 &3936180805247933593
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3936180805242448249}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 617da7e6dc6c82f43988a70b1b7fd69e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  helpOn: 1
+  showInfo: 1
+  showDev: 1
+  showList: 1
+  showAdd: 1
+  showSFX: 1
+  showSFXDetails: 000000000000000000000000000000000000000000000000000000000000000000000000000000
+  groupAddIndex: 5
+  autoPrepoolAmount: 0
+  autoBaseVolume: 1
+  autoVolumeVariation: 0
+  autoPitchVariation: 0
+  showAsGrouped: 1
+  soundConnections:
+  - level: Tutorial02
+    isCustomLevel: 0
+    soundsToPlay:
+    - {fileID: 8300000, guid: 0ecf105be3943b5449a0b8710b2ab33d, type: 3}
+    baseVolumes:
+    - 0.1
+    playMethod: 0
+    minDelay: 0
+    maxDelay: 0
+    delay: 0
+  - level: Tutorial03
+    isCustomLevel: 0
+    soundsToPlay:
+    - {fileID: 8300000, guid: 0ecf105be3943b5449a0b8710b2ab33d, type: 3}
+    baseVolumes:
+    - 1
+    playMethod: 0
+    minDelay: 0
+    maxDelay: 0
+    delay: 0
+  - level: Tutorial04
+    isCustomLevel: 0
+    soundsToPlay:
+    - {fileID: 8300000, guid: 0ecf105be3943b5449a0b8710b2ab33d, type: 3}
+    baseVolumes:
+    - 1
+    playMethod: 0
+    minDelay: 0
+    maxDelay: 0
+    delay: 0
+  - level: Tutorial05
+    isCustomLevel: 0
+    soundsToPlay:
+    - {fileID: 8300000, guid: 0ecf105be3943b5449a0b8710b2ab33d, type: 3}
+    baseVolumes:
+    - 1
+    playMethod: 0
+    minDelay: 0
+    maxDelay: 0
+    delay: 0
+  - level: Stage06
+    isCustomLevel: 0
+    soundsToPlay:
+    - {fileID: 8300000, guid: 48b5dc99f289adc469dac747de93a0af, type: 3}
+    baseVolumes:
+    - 1
+    playMethod: 0
+    minDelay: 0
+    maxDelay: 0
+    delay: 0
+  - level: Stage07
+    isCustomLevel: 0
+    soundsToPlay:
+    - {fileID: 8300000, guid: 48b5dc99f289adc469dac747de93a0af, type: 3}
+    baseVolumes:
+    - 1
+    playMethod: 0
+    minDelay: 0
+    maxDelay: 0
+    delay: 0
+  - level: Stage08
+    isCustomLevel: 0
+    soundsToPlay:
+    - {fileID: 8300000, guid: 48b5dc99f289adc469dac747de93a0af, type: 3}
+    baseVolumes:
+    - 1
+    playMethod: 0
+    minDelay: 0
+    maxDelay: 0
+    delay: 0
+  - level: Dreamland
+    isCustomLevel: 0
+    soundsToPlay:
+    - {fileID: 8300000, guid: a488471835a41fe4abca45b694298709, type: 3}
+    baseVolumes:
+    - 1
+    playMethod: 0
+    minDelay: 0
+    maxDelay: 0
+    delay: 0
+  - level: Dungeon
+    isCustomLevel: 0
+    soundsToPlay:
+    - {fileID: 8300000, guid: ca3db88514e1a7642a25be38789d3e65, type: 3}
+    baseVolumes:
+    - 1
+    playMethod: 0
+    minDelay: 0
+    maxDelay: 0
+    delay: 0
+  - level: Mine
+    isCustomLevel: 0
+    soundsToPlay:
+    - {fileID: 8300000, guid: 97c24dda64964df45aee334b4d9d54b0, type: 3}
+    baseVolumes:
+    - 1
+    playMethod: 0
+    minDelay: 0
+    maxDelay: 0
+    delay: 0
+  - level: DreamMine
+    isCustomLevel: 0
+    soundsToPlay:
+    - {fileID: 8300000, guid: 16aa7b723a6905247b2517f3fe11d934, type: 3}
+    baseVolumes:
+    - 1
+    playMethod: 0
+    minDelay: 0
+    maxDelay: 0
+    delay: 0
+  - level: Pond
+    isCustomLevel: 0
+    soundsToPlay:
+    - {fileID: 8300000, guid: fd59ca6f644edfd48942b10ce92c798c, type: 3}
+    baseVolumes:
+    - 1
+    playMethod: 0
+    minDelay: 0
+    maxDelay: 0
+    delay: 0
+  - level: Tutorial01
+    isCustomLevel: 0
+    soundsToPlay:
+    - {fileID: 8300000, guid: 0ecf105be3943b5449a0b8710b2ab33d, type: 3}
+    baseVolumes:
+    - 1
+    playMethod: 0
+    minDelay: 0
+    maxDelay: 0
+    delay: 0
+  - level: Title
+    isCustomLevel: 0
+    soundsToPlay:
+    - {fileID: 8300000, guid: a73048184e8bbbc44ba053e2722d2081, type: 3}
+    baseVolumes:
+    - 1
+    playMethod: 0
+    minDelay: 0
+    maxDelay: 0
+    delay: 0
+  - level: LoadingTest
+    isCustomLevel: 0
+    soundsToPlay:
+    - {fileID: 8300000, guid: 2365a3ed3d66abb4b83c3392495f95a9, type: 3}
+    baseVolumes:
+    - 1
+    playMethod: 3
+    minDelay: 0
+    maxDelay: 0
+    delay: 1
+  audios:
+  - {fileID: 3936180805244776603}
+  - {fileID: 3936180805244776601}
+  currentLevel: 
+  currentSoundConnection:
+    level: 
+    isCustomLevel: 0
+    soundsToPlay: []
+    baseVolumes: []
+    playMethod: 0
+    minDelay: 0
+    maxDelay: 0
+    delay: 0
+  crossDuration: 1
+  showDebug: 1
+  offTheBGM: 0
+  isPaused: 0
+  movingOnFromSong: 0
+  ignoreLevelLoad: 0
+  resourcesPath: Sounds/SFX
+  storedSFXs:
+  - {fileID: 8300000, guid: 3f3e8fb909e9dc945a832bfcf66e45a5, type: 3}
+  - {fileID: 8300000, guid: 68bfbf5b1c06de54cb89ded0e5f4ac49, type: 3}
+  - {fileID: 8300000, guid: aa0d13ed821f8994398e4f21b03901a7, type: 3}
+  - {fileID: 8300000, guid: 83331c73f7ec4844088e9677339896b8, type: 3}
+  - {fileID: 8300000, guid: e8604540c30a06f4f84c66acbcf2cbd5, type: 3}
+  - {fileID: 8300000, guid: de14d44b776b2f04e9a6bdb04f1fa72e, type: 3}
+  - {fileID: 8300000, guid: eee6ba4df9a303a4598a4976f19bd9ac, type: 3}
+  - {fileID: 8300000, guid: 263f6834549f33a418602ad60bcf8062, type: 3}
+  - {fileID: 8300000, guid: d75db2c48f30abb45b9373bf96e1a1b0, type: 3}
+  - {fileID: 8300000, guid: 6a98eb33b46f6a8438def425cd15a026, type: 3}
+  - {fileID: 8300000, guid: c8bac345905640e45882e83d7ad4b3b5, type: 3}
+  - {fileID: 8300000, guid: 49bc24ffd12a1074b939273f4d6beedd, type: 3}
+  - {fileID: 8300000, guid: 48228349591b72b43aa4bf3b111b881f, type: 3}
+  - {fileID: 8300000, guid: 14d56a639926eff4180a8e3efe11046e, type: 3}
+  - {fileID: 8300000, guid: 6170ab3c6466301419a6b24682fb4fae, type: 3}
+  - {fileID: 8300000, guid: a6173813bb737da48bb50c6d3d92e50d, type: 3}
+  - {fileID: 8300000, guid: 50f1a63cbe030ed43b72eee40f816e1a, type: 3}
+  - {fileID: 8300000, guid: d7231f23d9ad1574bad4bfbd9bcd88e8, type: 3}
+  - {fileID: 8300000, guid: bec6f62df91137742a868053d61ba93e, type: 3}
+  - {fileID: 8300000, guid: 909de47208c402d43b1348d6bcd3d45c, type: 3}
+  - {fileID: 8300000, guid: d8192d6444142b148ab260e6698e40a9, type: 3}
+  - {fileID: 8300000, guid: 8079e526f70ce9043898e086077b833f, type: 3}
+  - {fileID: 8300000, guid: 4f703c4255c67f14d824a1dbcba9a420, type: 3}
+  - {fileID: 8300000, guid: 47c9fc986fda3ea4e9fe42f87cd9b968, type: 3}
+  - {fileID: 8300000, guid: c5e4d8826454da24b8c073112831a773, type: 3}
+  - {fileID: 8300000, guid: a7b1cd2800b818a49898c7d18ac18791, type: 3}
+  - {fileID: 8300000, guid: c559d4c07ee20294e99c91e2539bf309, type: 3}
+  - {fileID: 8300000, guid: 435dc9964c589e543b93ef6320a899c3, type: 3}
+  - {fileID: 8300000, guid: f95a5f6c852214540aac6e41b10a3fb7, type: 3}
+  - {fileID: 8300000, guid: 6eee30c2af500ba4aa7bbea885896b20, type: 3}
+  - {fileID: 8300000, guid: c42fb936c1a69b44aa7f183a169e3664, type: 3}
+  - {fileID: 8300000, guid: 610faf05743e3ef4fa414e87703668b0, type: 3}
+  - {fileID: 8300000, guid: 315705fd895c41a42b86fd1992d98673, type: 3}
+  - {fileID: 8300000, guid: c0df8a9c512c30247a44af1271b103c5, type: 3}
+  - {fileID: 8300000, guid: faf4283565ce2144b84680440681131d, type: 3}
+  - {fileID: 8300000, guid: 9863e6744194c92488716e25db4cc989, type: 3}
+  - {fileID: 8300000, guid: 9d0113dd16699ce4ea3c58dd422fdc1f, type: 3}
+  - {fileID: 8300000, guid: 371eba0048fb4cc4cb1d797e2b60e36f, type: 3}
+  - {fileID: 8300000, guid: a190a3183f38c9e4d94aeeb2c1b054ef, type: 3}
+  unOwnedSFXObjects: []
+  sfxGroups:
+  - groupName: Grass
+    specificCapAmount: -1
+    clips: []
+    independentVolume: 0
+    independentPitch: 0
+    volume: 1
+    pitch: 1
+  - groupName: Rock
+    specificCapAmount: -1
+    clips: []
+    independentVolume: 0
+    independentPitch: 0
+    volume: 1
+    pitch: 1
+  - groupName: Action
+    specificCapAmount: -1
+    clips: []
+    independentVolume: 0
+    independentPitch: 0
+    volume: 1
+    pitch: 1
+  - groupName: UIButton
+    specificCapAmount: -1
+    clips: []
+    independentVolume: 0
+    independentPitch: 0
+    volume: 1
+    pitch: 1
+  - groupName: Nature
+    specificCapAmount: -1
+    clips: []
+    independentVolume: 0
+    independentPitch: 0
+    volume: 1
+    pitch: 1
+  clipToGroupKeys:
+  - Rocky_ground_step0 1
+  - Rocky_ground_step1 1
+  - Rocky_ground_step2 1
+  - Rocky_ground_step3 1
+  - Rocky_ground_step4 1
+  - Rocky_ground_step5 1
+  - Rocky_ground_step6 1
+  - Rocky_ground_step7 1
+  - Floor_step0 1
+  - Floor_step1 1
+  - Floor_step2 1
+  - Floor_step3 1
+  - Floor_step4 1
+  - Floor_step5 1
+  - Floor_step6 1
+  - Floor_step7 1
+  - Floor_step8 1
+  - Floor_step9 1
+  - Floor_step10 1
+  - Floor_step11 1
+  - Floor_step12 1
+  - Floor_step13 1
+  - Floor_step14 1
+  - Floor_step15 1
+  - Floor_step16 1
+  - Floor_step17 1
+  - Floor_step18 1
+  - Floor_step19 1
+  - Floor_step20 1
+  - FF_EFX_foley_chopping_wood_single_hit
+  - ESM_FG_FX_one_shot_fishing_pole_throw_whoosh_lure_into_water_splash_cast_2
+  - ESM_FG_FX_one_shot_fishing_pole_cast_line_1_throw_fishing_pole_rod_movement_ready
+  - ESM_FG_FX_one_shot_fishing_water_complete_3_done_capture_splash_catch_medium_splash
+  - ESM_Game_Saber_Sword_Slice_Impact_Stab_Knife_Spear_Arrow_Sword_Spill_Drip_Weapon_Wet_Juicy_Horror
+  - ESM_GB_fx_foley_one_shot_metlimpt_mining_metal_heavy_impact_02_destroy_hit_material
+  - ESM_FG_FX_one_shot_farming_dig_shovel_impact_ground_old_square_point_grass_metal_pressure_creaking_2
+  - SFX_UI_Click_Designed_Pop_Generic_1
+  - SFX_UIButtonClick
+  - 41497941_bees-buzzing-01
+  clipToGroupValues:
+  - Grass
+  - Grass
+  - Grass
+  - Grass
+  - Grass
+  - Grass
+  - Grass
+  - Grass
+  - Rock
+  - Rock
+  - Rock
+  - Rock
+  - Rock
+  - Rock
+  - Rock
+  - Rock
+  - Rock
+  - Rock
+  - Rock
+  - Rock
+  - Rock
+  - Rock
+  - Rock
+  - Rock
+  - Rock
+  - Rock
+  - Rock
+  - Rock
+  - Rock
+  - Action
+  - Action
+  - Action
+  - Action
+  - Action
+  - Action
+  - Action
+  - Action
+  - UIButton
+  - Nature
+  offTheSFX: 0
+  capAmount: 3
+  sfxPrePoolAmounts: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  sfxBaseVolumes:
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  sfxVolumeVariations:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  sfxPitchVariations:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  SFXObjectLifetime: 10
+  currentPockets:
+  - Default
+  defaultSFXSpatialBlend: 0

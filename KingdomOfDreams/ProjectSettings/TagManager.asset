@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Weapon
+  - Shovel
+  - Forest
+  - Plain
+  - Tree
+  - Building
+  - NPC
+  - Wood
+  - WisdomPiece
+  - SpeedPiece
+  - MagicPiece
+  - DetoxPiece
+  - Tutorial1
+  - Pond
+  - Fish
+  - Tutorial2
+  - Farm
+  - Tutorial3
+  - Tutorial4
+  - Tutorial5
+  - Dungeon
+  - Meat
+  - Cabbage
+  - Iron
+  - Mine
+  - IronPiece
+  - Stage6_0
+  - Stage6_1
+  - Stage6_2
+  - Stage6_3
+  - Stage6_4
+  - npc
+  - Stage6_Roof
+  - DreamPiece
+  - DreamMine
+  - Stage7_0
+  - Stage7_1
+  - Stage7_2
+  - Stage7_3
+  - Stage7_4
+  - Stage7_5
+  - Stage7_6
+  - Stage7_7
+  - Stage8_0
+  - Stage8_1
+  - Stage8_2
+  - Stage8_3
+  - Stage8_4
+  - Stage8_5
+  - Stage8_6
+  - FoodWorkBench
+  - IronWorkBench
+  - MeatWorkBench
+  - Stage7_8
+  - Fairy
+  - Grass
+  - Rock
+  - Ground8
+  - Missile
+  - DreamLand
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Tree
+  - Cabbage
+  - Iron
+  - Monster
+  - Dream
+  - PostProcessing
+  - Black
+  - TestB
+  - Color
+  - Base
+  - Post2
+  - Post3
+  - Character
+  - Fish
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

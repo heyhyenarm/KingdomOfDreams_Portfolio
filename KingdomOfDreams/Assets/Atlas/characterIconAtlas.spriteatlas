@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: characterIconAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 00ea9dc944a39284394c97b1e16b7673, type: 3}
+    - {fileID: 2800000, guid: 1f8638906d218ef4384afee1ec0baa40, type: 3}
+    - {fileID: 2800000, guid: 4af9a4587ffe0424ba91e80f24779938, type: 3}
+    - {fileID: 2800000, guid: c37f764c2ca192c448095e8551567e4c, type: 3}
+    - {fileID: 2800000, guid: 2565173668dd4de40a69c069c0a6a670, type: 3}
+    - {fileID: 2800000, guid: 9abe59b4423a00444ad12c259fbe5fd8, type: 3}
+    - {fileID: 2800000, guid: e957aa576ffd2894abf66c2e30ea77ba, type: 3}
+    - {fileID: 2800000, guid: 457c5200a7eacbc4ca6632833294f891, type: 3}
+    - {fileID: 2800000, guid: 201894ea75a08e344b38166383d3821a, type: 3}
+    - {fileID: 2800000, guid: ffa1c8f216fff884b9cb70a9b7de353d, type: 3}
+    - {fileID: 2800000, guid: 4304153314d2f6f4aa82771855599d0f, type: 3}
+    - {fileID: 2800000, guid: 8e1e7ce6f7a266e4482634cfffc5c405, type: 3}
+    - {fileID: 2800000, guid: b49260105ba55e5488efe995c74fee02, type: 3}
+    - {fileID: 2800000, guid: b60ceba045c862345bcd665430366e8d, type: 3}
+    - {fileID: 2800000, guid: 754823e28dcc4e24c8fd0860f6a1af7e, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 457c5200a7eacbc4ca6632833294f891, type: 3}
+  - {fileID: 21300000, guid: b49260105ba55e5488efe995c74fee02, type: 3}
+  - {fileID: 21300000, guid: 1f8638906d218ef4384afee1ec0baa40, type: 3}
+  - {fileID: 21300000, guid: b60ceba045c862345bcd665430366e8d, type: 3}
+  - {fileID: 21300000, guid: 754823e28dcc4e24c8fd0860f6a1af7e, type: 3}
+  - {fileID: 21300000, guid: ffa1c8f216fff884b9cb70a9b7de353d, type: 3}
+  - {fileID: 21300000, guid: 4304153314d2f6f4aa82771855599d0f, type: 3}
+  - {fileID: 21300000, guid: 9abe59b4423a00444ad12c259fbe5fd8, type: 3}
+  - {fileID: 21300000, guid: 2565173668dd4de40a69c069c0a6a670, type: 3}
+  - {fileID: 21300000, guid: 8e1e7ce6f7a266e4482634cfffc5c405, type: 3}
+  - {fileID: 21300000, guid: e957aa576ffd2894abf66c2e30ea77ba, type: 3}
+  - {fileID: 21300000, guid: 4af9a4587ffe0424ba91e80f24779938, type: 3}
+  - {fileID: 21300000, guid: 00ea9dc944a39284394c97b1e16b7673, type: 3}
+  - {fileID: 21300000, guid: 201894ea75a08e344b38166383d3821a, type: 3}
+  - {fileID: 21300000, guid: c37f764c2ca192c448095e8551567e4c, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - princess
+  - miner_sprite
+  - FortuneTeller
+  - people_sprite
+  - woodcutter_sprite
+  - fairy_sprite
+  - farmer_sprite
+  - Queen
+  - Merchant
+  - hunter_sprite
+  - Prince
+  - King
+  - Blacksmith_Female
+  - angler_sprite
+  - Mage
+  m_RenderDataMap: {}
+  m_Tag: characterIconAtlas
+  m_IsVariant: 0
