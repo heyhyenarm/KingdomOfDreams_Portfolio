@@ -1,0 +1,101 @@
+[
+  {
+    "id": 300,
+    "name": "튜토리얼",
+    "action": 1,
+    "rare_id": 200,
+    "normal1_id": 201,
+    "normal2_id": null,
+    "reward": 1
+  },
+  {
+    "id": 301,
+    "name": "벌목1",
+    "action": 2,
+    "rare_id": 202,
+    "normal1_id": 203,
+    "normal2_id": 204,
+    "reward": 2
+  },
+  {
+    "id": 302,
+    "name": "벌목2",
+    "action": 2,
+    "rare_id": 205,
+    "normal1_id": 206,
+    "normal2_id": 207,
+    "reward": 3
+  },
+  {
+    "id": 303,
+    "name": "낚시1",
+    "action": 3,
+    "rare_id": 208,
+    "normal1_id": 209,
+    "normal2_id": 210,
+    "reward": 2
+  },
+  {
+    "id": 304,
+    "name": "낚시2",
+    "action": 3,
+    "rare_id": 211,
+    "normal1_id": 212,
+    "normal2_id": 213,
+    "reward": 3
+  },
+  {
+    "id": 305,
+    "name": "채집1",
+    "action": 4,
+    "rare_id": 214,
+    "normal1_id": 215,
+    "normal2_id": 216,
+    "reward": 2
+  },
+  {
+    "id": 306,
+    "name": "채집2",
+    "action": 4,
+    "rare_id": 217,
+    "normal1_id": 218,
+    "normal2_id": 219,
+    "reward": 3
+  },
+  {
+    "id": 307,
+    "name": "광질1",
+    "action": 5,
+    "rare_id": 220,
+    "normal1_id": 221,
+    "normal2_id": 222,
+    "reward": 2
+  },
+  {
+    "id": 308,
+    "name": "광질2",
+    "action": 5,
+    "rare_id": 223,
+    "normal1_id": 224,
+    "normal2_id": 225,
+    "reward": 3
+  },
+  {
+    "id": 309,
+    "name": "사냥1",
+    "action": 6,
+    "rare_id": 226,
+    "normal1_id": 227,
+    "normal2_id": 228,
+    "reward": 2
+  },
+  {
+    "id": 310,
+    "name": "사냥2",
+    "action": 6,
+    "rare_id": 229,
+    "normal1_id": 230,
+    "normal2_id": 231,
+    "reward": 3
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "2000",
+    "name": "나무",
+    "sprite_name": "equip_shield_wood"
+  },
+  {
+    "id": "2001",
+    "name": "물고기",
+    "sprite_name": "equip_fish"
+  },
+  {
+    "id": "2002",
+    "name": "양배추",
+    "sprite_name": "cabbage"
+  },
+  {
+    "id": "2003",
+    "name": "철",
+    "sprite_name": "equip_stone"
+  },
+  {
+    "id": "2004",
+    "name": "고기",
+    "sprite_name": "icon_itemicon_meat"
+  },
+  {
+    "id": "2005",
+    "name": "식료품",
+    "sprite_name": "icon_Food_Pizza"
+  },
+  {
+    "id": "2006",
+    "name": "철주괴",
+    "sprite_name": "Icon_Nut"
+  },
+  {
+    "id": "2007",
+    "name": "구운고기",
+    "sprite_name": "icon_itemicon_meat"
+  }
+]

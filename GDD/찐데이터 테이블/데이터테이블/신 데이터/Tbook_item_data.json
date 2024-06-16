@@ -1,0 +1,298 @@
+[
+  {
+    "id": 6000,
+    "name": "별",
+    "type": 1,
+    "action": 1,
+    "sprite_name": "Icon_ImageIcon_Star02_s",
+    "percent": 100
+  },
+  {
+    "id": 6001,
+    "name": "방패",
+    "type": 3,
+    "action": 1,
+    "sprite_name": "icon_itemicon_shield",
+    "percent": 100
+  },
+  {
+    "id": 6002,
+    "name": "마구간 열쇠",
+    "type": 3,
+    "action": 2,
+    "sprite_name": "Icon_Key_Bronze",
+    "percent": 14
+  },
+  {
+    "id": 6003,
+    "name": "스톱워치",
+    "type": 4,
+    "action": 2,
+    "sprite_name": "Icon_Timer",
+    "percent": 14
+  },
+  {
+    "id": 6004,
+    "name": "버디버",
+    "type": 5,
+    "action": 2,
+    "sprite_name": "Icon_Boots",
+    "percent": 14
+  },
+  {
+    "id": 6005,
+    "name": "성 열쇠",
+    "type": 1,
+    "action": 2,
+    "sprite_name": "Icon_Key_Gold",
+    "percent": 8
+  },
+  {
+    "id": 6006,
+    "name": "누군가의 집 열쇠",
+    "type": 2,
+    "action": 2,
+    "sprite_name": "Icon_Key_Silver",
+    "percent": 8
+  },
+  {
+    "id": 6007,
+    "name": "무지개 알",
+    "type": 1,
+    "action": 2,
+    "sprite_name": "Icon_Egg",
+    "percent": 8
+  },
+  {
+    "id": 6008,
+    "name": "장난감 로켓",
+    "type": 2,
+    "action": 2,
+    "sprite_name": "Icon_Missile",
+    "percent": 8
+  },
+  {
+    "id": 6009,
+    "name": "오리발",
+    "type": 3,
+    "action": 3,
+    "sprite_name": "Icon_Flippers",
+    "percent": 14
+  },
+  {
+    "id": 6010,
+    "name": "자석",
+    "type": 4,
+    "action": 3,
+    "sprite_name": "Icon_Magnetic",
+    "percent": 14
+  },
+  {
+    "id": 6011,
+    "name": "참치 통조림",
+    "type": 5,
+    "action": 3,
+    "sprite_name": "Icon_Food_Can",
+    "percent": 14
+  },
+  {
+    "id": 6012,
+    "name": "진주",
+    "type": 1,
+    "action": 3,
+    "sprite_name": "Icon_Gem_Pearl",
+    "percent": 8
+  },
+  {
+    "id": 6013,
+    "name": "말 발굽",
+    "type": 2,
+    "action": 3,
+    "sprite_name": "Icon_Horsesheos",
+    "percent": 8
+  },
+  {
+    "id": 6014,
+    "name": "지도",
+    "type": 1,
+    "action": 3,
+    "sprite_name": "Icon_Map",
+    "percent": 8
+  },
+  {
+    "id": 6015,
+    "name": "나침반",
+    "type": 2,
+    "action": 3,
+    "sprite_name": "Icon_Compass",
+    "percent": 8
+  },
+  {
+    "id": 6016,
+    "name": "호박",
+    "type": 3,
+    "action": 4,
+    "sprite_name": "Icon_Pumkin",
+    "percent": 14
+  },
+  {
+    "id": 6017,
+    "name": "동전",
+    "type": 4,
+    "action": 4,
+    "sprite_name": "Icon_Gold",
+    "percent": 14
+  },
+  {
+    "id": 6018,
+    "name": "월계수 잎",
+    "type": 5,
+    "action": 4,
+    "sprite_name": "Icon_Laurel",
+    "percent": 14
+  },
+  {
+    "id": 6019,
+    "name": "네잎클로버",
+    "type": 1,
+    "action": 4,
+    "sprite_name": "Icon_Clover",
+    "percent": 8
+  },
+  {
+    "id": 6020,
+    "name": "금 주사위",
+    "type": 2,
+    "action": 4,
+    "sprite_name": "Icon_Dice_Yellow",
+    "percent": 8
+  },
+  {
+    "id": 6021,
+    "name": "모래시계",
+    "type": 1,
+    "action": 4,
+    "sprite_name": "Icon_Hourglass",
+    "percent": 8
+  },
+  {
+    "id": 6022,
+    "name": "석유",
+    "type": 2,
+    "action": 4,
+    "sprite_name": "Icon_Oil",
+    "percent": 8
+  },
+  {
+    "id": 6023,
+    "name": "개껌 화석",
+    "type": 3,
+    "action": 5,
+    "sprite_name": "Icon_DogGum",
+    "percent": 14
+  },
+  {
+    "id": 6024,
+    "name": "주인 화석",
+    "type": 4,
+    "action": 5,
+    "sprite_name": "icon_itemicon_skull",
+    "percent": 14
+  },
+  {
+    "id": 6025,
+    "name": "다이너마이트",
+    "type": 5,
+    "action": 5,
+    "sprite_name": "icon_Bomb_Dynamite",
+    "percent": 14
+  },
+  {
+    "id": 6026,
+    "name": "다이아몬드",
+    "type": 1,
+    "action": 5,
+    "sprite_name": "icon_itemicon_jewel3_blue",
+    "percent": 8
+  },
+  {
+    "id": 6027,
+    "name": "에메랄드",
+    "type": 2,
+    "action": 5,
+    "sprite_name": "icon_itemicon_jewel1_green",
+    "percent": 8
+  },
+  {
+    "id": 6028,
+    "name": "불사조의 영혼",
+    "type": 1,
+    "action": 5,
+    "sprite_name": "icon_itemicon_gemstone",
+    "percent": 8
+  },
+  {
+    "id": 6029,
+    "name": "보물상자",
+    "type": 2,
+    "action": 5,
+    "sprite_name": "icon_itemicon_chest_special",
+    "percent": 8
+  },
+  {
+    "id": 6030,
+    "name": "목걸이",
+    "type": 3,
+    "action": 6,
+    "sprite_name": "icon_itemicon_necklace",
+    "percent": 14
+  },
+  {
+    "id": 6031,
+    "name": "반지",
+    "type": 4,
+    "action": 6,
+    "sprite_name": "icon_itemicon_ring",
+    "percent": 14
+  },
+  {
+    "id": 6032,
+    "name": "왕관",
+    "type": 5,
+    "action": 6,
+    "sprite_name": "icon_itemicon_crown",
+    "percent": 14
+  },
+  {
+    "id": 6033,
+    "name": "용의 눈알",
+    "type": 1,
+    "action": 6,
+    "sprite_name": "equip_eye_blue",
+    "percent": 8
+  },
+  {
+    "id": 6034,
+    "name": "용의 발톱",
+    "type": 2,
+    "action": 6,
+    "sprite_name": "equip_tooth_red",
+    "percent": 8
+  },
+  {
+    "id": 6035,
+    "name": "투구",
+    "type": 1,
+    "action": 6,
+    "sprite_name": "icon_itemicon_hero",
+    "percent": 8
+  },
+  {
+    "id": 6036,
+    "name": "갑옷",
+    "type": 2,
+    "action": 6,
+    "sprite_name": "icon_itemicon_armor",
+    "percent": 8
+  }
+]

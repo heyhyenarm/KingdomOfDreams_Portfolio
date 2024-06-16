@@ -1,0 +1,82 @@
+[
+  {
+    "id": "8000",
+    "num": "1",
+    "reward_dream_id": "400",
+    "reward_dream_count": "50",
+    "reward_chest_id": "101",
+    "ui_sprite_name": "lumber",
+    "ui_position": [-700, -250],
+    "ui_size": [150, 150]
+  },
+  {
+    "id": "8001",
+    "num": "2",
+    "reward_dream_id": "400",
+    "reward_dream_count": "50",
+    "reward_chest_id": "101",
+    "ui_sprite_name": "fish (3)",
+    "ui_position": [-350, -251],
+    "ui_size": [120, 120]
+  },
+  {
+    "id": "8002",
+    "num": "3",
+    "reward_dream_id": "400",
+    "reward_dream_count": "50",
+    "reward_chest_id": "101",
+    "ui_sprite_name": "icon_crops",
+    "ui_position": [0, -252],
+    "ui_size": [120, 121]
+  },
+  {
+    "id": "8003",
+    "num": "4",
+    "reward_dream_id": "400",
+    "reward_dream_count": "50",
+    "reward_chest_id": "101",
+    "ui_sprite_name": "Icon_ShopIcon_Gem_01",
+    "ui_position": [350, -253],
+    "ui_size": [169, 98]
+  },
+  {
+    "id": "8004",
+    "num": "5",
+    "reward_dream_id": "400",
+    "reward_dream_count": "50",
+    "reward_chest_id": "101",
+    "ui_sprite_name": "icon_itemicon_meat",
+    "ui_position": [700, -254],
+    "ui_size": [141, 109]
+  },
+  {
+    "id": "8005",
+    "num": "6",
+    "reward_dream_id": "400",
+    "reward_dream_count": "100",
+    "reward_chest_id": "102",
+    "ui_sprite_name": "smog",
+    "ui_position": [444, 395],
+    "ui_size": [150, 150]
+  },
+  {
+    "id": "8006",
+    "num": "7",
+    "reward_dream_id": "400",
+    "reward_dream_count": "200",
+    "reward_chest_id": "102",
+    "ui_sprite_name": "vegetable",
+    "ui_position": [0, 395],
+    "ui_size": [120, 120]
+  },
+  {
+    "id": "8007",
+    "num": "8",
+    "reward_dream_id": "400",
+    "reward_dream_count": "300",
+    "reward_chest_id": "102",
+    "ui_sprite_name": "Icon_ImageIcon_Crown",
+    "ui_position": [-500, 93],
+    "ui_size": [127, 100]
+  }
+]

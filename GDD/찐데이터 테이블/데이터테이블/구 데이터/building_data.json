@@ -1,0 +1,104 @@
+[
+  {
+    "id": 500,
+    "name": "나무꾼집",
+    "prefab_name": "Preset_House_02_A",
+    "build_time": 5
+  },
+  {
+    "id": 501,
+    "name": "낚시꾼집",
+    "prefab_name": "Preset_Hut_01",
+    "build_time": 5
+  },
+  {
+    "id": 502,
+    "name": "농부집",
+    "prefab_name": "Preset_House_02_C",
+    "build_time": 5
+  },
+  {
+    "id": 503,
+    "name": "광부집",
+    "prefab_name": "Preset_House_02_B",
+    "build_time": 5
+  },
+  {
+    "id": 504,
+    "name": "사냥꾼집",
+    "prefab_name": "Preset_Shelter_01",
+    "build_time": 5
+  },
+  {
+    "id": 505,
+    "name": "목공소",
+    "prefab_name": "Preset_House_09_A",
+    "build_time": 3600
+  },
+  {
+    "id": 506,
+    "name": "생선가게",
+    "prefab_name": "Preset_House_09_D",
+    "build_time": 3600
+  },
+  {
+    "id": 507,
+    "name": "채소가게",
+    "prefab_name": "Preset_House_09_B",
+    "build_time": 3600
+  },
+  {
+    "id": 508,
+    "name": "대장간",
+    "prefab_name": "Preset_Blacksmith_01",
+    "build_time": 3600
+  },
+  {
+    "id": 509,
+    "name": "정육점",
+    "prefab_name": "Preset_House_09_C",
+    "build_time": 3600
+  },
+  {
+    "id": 510,
+    "name": "시장",
+    "prefab_name": "null",
+    "build_time": 3600
+  },
+  {
+    "id": 511,
+    "name": "식료품점",
+    "prefab_name": "Preset_House_10",
+    "build_time": 7200
+  },
+  {
+    "id": 512,
+    "name": "제철소",
+    "prefab_name": "Preset_Stables_01",
+    "build_time": 7200
+  },
+  {
+    "id": 513,
+    "name": "식당",
+    "prefab_name": "Preset_House_4",
+    "build_time": 7200
+  },
+  {
+    "id": 514,
+    "name": "병원",
+    "prefab_name": "Preset_Tower_01",
+    "build_time": 10800
+  },
+  {
+    "id": 515,
+    "name": "주점",
+    "prefab_name": "Preset_Tavern_01",
+    "build_time": 10800
+  },
+  {
+    "id": 516,
+    "name": "성",
+    "prefab_name": "",
+    "build_time": 5
+  }
+]

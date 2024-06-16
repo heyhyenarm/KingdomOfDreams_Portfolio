@@ -1,0 +1,22 @@
+[
+  {
+    "id": "300",
+    "name": "마법",
+    "dream_piece_id": "600"
+  },
+  {
+    "id": "310",
+    "name": "신속",
+    "dream_piece_id": "601"
+  },
+  {
+    "id": "320",
+    "name": "정화",
+    "dream_piece_id": "602"
+  },
+  {
+    "id": "330",
+    "name": "지혜",
+    "dream_piece_id": "603"
+  }
+]
